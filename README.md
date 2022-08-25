@@ -1,2 +1,2 @@
 # Real-Time-Bus-Tracker-Exercise
-This is the Real Time Tracker Exercise form Module 9
+This is the Real Time Tracker Exercise from Module 9
